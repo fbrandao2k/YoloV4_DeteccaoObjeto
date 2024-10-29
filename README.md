@@ -10,3 +10,6 @@ Este notebook mostra como usar o Google Colab para baixar o Darknet, compilar a 
 ## YOLOv4_OpenCV-DetecçãoObjetos_Em_Vídeos.ipynb
 Combinação de Yolo V4 com OpenCV para detectar objetos em vídeos.
 
+## YOLO_v4_OpenCV-Detecção_de_objetos_Completo.ipynb
+Uso do Google Colab, aplicar o Non-Maxima Suppression, mostrar objetos detectados separados e detecção em múltiplas imagens.
+
